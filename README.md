@@ -6,7 +6,7 @@
 $ xelatex main
 ```
 
-## 미리보기 (Preview)
+## [미리보기 (Preview)](output/output.pdf)
 <table><tr><td>
     <img src="output/output_01.png" alt="page 1" />
 </td></tr></table>
