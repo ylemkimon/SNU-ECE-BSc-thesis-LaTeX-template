@@ -1,6 +1,8 @@
 # SNU-ECE-BSc-thesis-LaTeX-template
 서울대학교 전기·정보공학부 학사 학위논문 LaTeX (비공식) 템플릿
 
+(키워드: 전기공학설계프로젝트, 졸업프로젝트, 졸업논문, 졸논)
+
 ## 사용법 (Usage)
 XeLaTeX
 
